@@ -10,5 +10,8 @@ design was done using KiCad.
 
 I'm in the process of documenting the build so bear with me.
 
+A pdf of all electrical drawings can be obtained `here 
+<https://github.com/jeremyarr/swarfy/blob/master/electrical/P101_Electrical.pdf>`_
+
 .. image:: mechanical/solidworks_movement.gif
 
